@@ -1,0 +1,9 @@
+{
+  "codex": {
+    "default": "personal",
+    "accounts": {
+      "personal": { "name": "personal", "home": "~/.codex" },
+      "work": { "name": "work", "home": "~/.codex-work" }
+    }
+  }
+}

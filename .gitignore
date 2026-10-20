@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.key
+api_key
+jev-outcomes.jsonl
+model-benchmarks.json
+model-benchmarks.lock
+model-scorecard.md
+accounts.json
