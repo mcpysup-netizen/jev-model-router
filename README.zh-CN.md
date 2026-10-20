@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 jev-model-router
+<img src="assets/banner.png" alt="jev-model-router: right model, right effort, every task" width="100%">
 
 **别再纠结用哪个 AI 模型。为每个任务自动选择合适的 Claude / Codex 模型和推理等级。**
 

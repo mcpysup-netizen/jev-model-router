@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 jev-model-router
+<img src="assets/banner.png" alt="jev-model-router: right model, right effort, every task" width="100%">
 
 **Stop guessing which AI model to use. Route every task to the right Claude or Codex model and reasoning level.**
 
